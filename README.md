@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/Him
 - ⚡️ Fun-Fact: I love to explore new technologies;
 - 📫 How to reach me **nadunhirudika46@gmail.com**
--  My portfolio https://portfolio-nadun.kesug.com/
+-  My portfolio https://portfolio-nadun.kesug.com
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
